@@ -1,0 +1,16 @@
+/hardhat-zone/cache
+/hardhat-zone/node_modules
+/react-zone/node_modules
+/react-zone/src/artifacts
+/react-zone/.pnp
+/react-zone/.pnp.js
+/react-zone/coverage
+/react-zone/build
+/react-zone/.DS_Store
+/react-zone/.env.local
+/react-zone/.env.development.local
+/react-zone/.env.test.local
+/react-zone/.env.production.local
+/react-zone/npm-debug.log*
+/react-zone/yarn-debug.log*
+/react-zone/yarn-error.log*
